@@ -1,6 +1,6 @@
 # 短編小説集
 
--   [くじらの夢](https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhaleDreams.md)
+-   [くじらの夢](./articles/WhaleDreams.md)
 
 ## License
 
