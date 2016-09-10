@@ -3,6 +3,7 @@
 
 * 短編小説集
   - [[./articles/WhaleDreams.md][くじらの夢]]
+  - [[./articles/HeroesCoffin.md][こころざしの壺]]
 
 ** License
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).

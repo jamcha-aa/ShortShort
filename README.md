@@ -1,6 +1,7 @@
 # 短編小説集
 
 -   [くじらの夢](./articles/WhaleDreams.md)
+-   [こころざしの壺](./articles/HeroesCoffin.md)
 
 ## License
 
