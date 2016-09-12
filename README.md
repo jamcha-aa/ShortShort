@@ -1,7 +1,7 @@
 # 短編小説集
 
 -   [くじらの夢](./ShortShort/blob/master/articles/WhaleDreams.md)
--   [こころざしの壺](./ShortShort/blob/master/articles/HeroesCoffin.md)
+-   [魂の壺](./ShortShort/blob/master/articles/HeroesCoffin.md)
 
 ## License
 
