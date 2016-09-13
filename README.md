@@ -1,8 +1,8 @@
 # 短編小説集
 
--   [くじらの夢](./ShortShort/blob/master/articles/WhaleDreams.md)
--   [魂の壺](./ShortShort/blob/master/articles/HeroesCoffin.md)
--   [片鋏のやどかり](./ShortShort/blob/master/articles/Hermitcrab.md)
+-   [くじらの夢](https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhaleDreams.md)
+-   [魂の壺](https://github.com/jamcha-aa/ShortShort/blob/master/articles/HeroesCoffin.md)
+-   [片鋏のやどかり](https://github.com/jamcha-aa/ShortShort/blob/master/articles/Hermitcrab.md)
 
 ## License
 
