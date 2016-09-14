@@ -5,6 +5,8 @@
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhaleDreams.md][くじらの夢]]
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/HeroesCoffin.md][魂の壺]]
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Hermitcrab.md][片鋏のやどかり]]
+  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/LastMorthal.md][最後のモーサル]]
+
 
 ** License
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
