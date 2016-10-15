@@ -6,6 +6,7 @@
 -   [最後のモーサル](https://github.com/jamcha-aa/ShortShort/blob/master/articles/LastMorthal.md)
 -   [竜の骨](https://github.com/jamcha-aa/ShortShort/blob/master/articles/Dragonbone.md)
 -   [のんちゃん](https://github.com/jamcha-aa/ShortShort/blob/master/articles/Nonchan.md)
+-   [傷ついた竜](https://github.com/jamcha-aa/ShortShort/blob/master/articles/InjuredDragon.md)
 
 ## License
 
