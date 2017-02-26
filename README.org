@@ -8,10 +8,11 @@
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/LastMorthal.md][最後のモーサル]]
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Dragonbone.md][竜の骨]]
   - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Nonchan.md][のんちゃん]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/InjuredDragon.md][傷ついた竜]]  
+  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/InjuredDragon.md][傷ついた竜]]
+  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhiteWorm.md][白き虫]]
 
 ** License
-Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).
+Copyright (c) 2016-2017 jamcha (jamcha.aa@gmail.com).
 
 All novels in this repository by jamcha are licensed under a [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International]]
 
