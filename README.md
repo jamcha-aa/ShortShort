@@ -7,10 +7,11 @@
 -   [竜の骨](https://github.com/jamcha-aa/ShortShort/blob/master/articles/Dragonbone.md)
 -   [のんちゃん](https://github.com/jamcha-aa/ShortShort/blob/master/articles/Nonchan.md)
 -   [傷ついた竜](https://github.com/jamcha-aa/ShortShort/blob/master/articles/InjuredDragon.md)
+-   [白き虫](https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhiteWorm.md)
 
 ## License
 
-Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).  
+Copyright (c) 2016-2017 jamcha (jamcha.aa@gmail.com).  
 
 All novels in this repository by jamcha are licensed under a [Creative Commons Attribution Non Commercial Share Alike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 
