@@ -60,6 +60,6 @@
 
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).  
 
-This document is under a [License Creative Commons Attribution Non Commercial Share Alike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
+This document is licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 
 [![img](http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)
