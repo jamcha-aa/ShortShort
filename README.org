@@ -2,14 +2,13 @@
 #+OPTIONS: \n:t
 
 * 短編小説集
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhaleDreams.md][くじらの夢]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/HeroesCoffin.md][魂の壺]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Hermitcrab.md][片鋏のやどかり]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/LastMorthal.md][最後のモーサル]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Dragonbone.md][竜の骨]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/Nonchan.md][のんちゃん]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/InjuredDragon.md][傷ついた竜]]
-  - [[https://github.com/jamcha-aa/ShortShort/blob/master/articles/WhiteWorm.md][白き虫]]
+  オリジナル短編小説集
+
+  閲覧はこちらから↓
+
+  [[https://jamcha-aa.gitbooks.io/shortshort/content/]]
+
+
 
 ** License
 Copyright (c) 2016-2017 jamcha (jamcha.aa@gmail.com).
