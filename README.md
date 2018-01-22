@@ -2,8 +2,6 @@
 
 オリジナル短編小説集  
 
-閲覧はこちらから↓  
-
 <https://jamcha-aa.gitbooks.io/shortshort/content/>  
 
 ## License
