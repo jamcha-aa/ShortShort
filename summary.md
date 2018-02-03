@@ -8,4 +8,4 @@
 -   [のんちゃん](/articles/Nonchan.md)
 -   [傷ついた竜](/articles/InjuredDragon.md)
 -   [白き虫](/articles/WhiteWorm.md)
--   [嫌がらせ](/articles/Harrassment.md)
+-   [いやがらせ](/articles/Harrassment.md)
