@@ -9,3 +9,4 @@
 -   [傷ついた竜](/articles/InjuredDragon.md)
 -   [白き虫](/articles/WhiteWorm.md)
 -   [いやがらせ](/articles/Harrassment.md)
+-   [煌帝](/articles/Emperor.md)
