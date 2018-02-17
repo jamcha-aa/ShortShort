@@ -6,11 +6,11 @@
 
   [[https://jamcha-aa.gitbooks.io/shortshort/content/]]
 
+  <br>
+  <br>
 
+  Copyright (c) 2016-2018 jamcha (jamcha.aa@gmail.com).
 
-** License
-Copyright (c) 2016-2017 jamcha (jamcha.aa@gmail.com).
-
-All novels in this repository by jamcha are licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
+  All novels in this repository are licensed under the [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
 [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
