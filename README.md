@@ -5,6 +5,10 @@
 <https://jamcha-aa.gitbooks.io/shortshort/content/>  
 
 <br>  
+
+画面左上の「≡」で目次の表示/非表示，「A」でフォントサイズやテーマの切り替えができます。  
+
+<br>  
 <br>  
 
 Copyright (c) 2016-2018 jamcha (jamcha.aa@gmail.com).  
