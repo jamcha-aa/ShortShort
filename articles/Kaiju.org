@@ -1,0 +1,23 @@
+#+OPTIONS: toc:nil
+#+OPTIONS: \n:t
+
+* かいじゅうの国
+
+
+  <br>
+  <br>
+
+  -- 了 --
+
+  <br>
+  <br>
+
+  原案: 小林さんちのメイ曲集「迷子のかいじゅう」 
+
+  <br>
+
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
+
+  Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).
+
+  [[http://creativecommons.org/licenses/by-nc-sa/4.0/deed][file:http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png]]
