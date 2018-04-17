@@ -1,3 +1,5 @@
+
+
 # 最後のモーサル
 
 人類による汚染は進み，保護された希少生物モーサルの数も残りわずかとなった。なるべく生息地に近い環境を与えられたが，集団で生活するモーサルにとって好ましい状況ではなく，日に日に弱っていった。  
@@ -21,14 +23,14 @@
 それから2日後の朝，モーサルは水を一口だけ飲み，その夜に死んだ。  
 
 <br>  
-
+<br>  
 &#x2013; 了 &#x2013;  
 
 <br>  
 <br>  
-
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).  
 
-![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+

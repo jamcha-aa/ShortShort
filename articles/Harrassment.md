@@ -1,3 +1,5 @@
+
+
 # いやがらせ
 
 診察室のドアをネチョネチョと叩く音があった。  
@@ -28,7 +30,6 @@
 
 <br>  
 <br>  
-
 診察室のドアをドンドンと叩く音があった。  
 
 「どうぞ」  
@@ -65,7 +66,6 @@
 
 <br>  
 <br>  
-
 診察室のドアをコンコンと叩く音があった。  
 
 「どうぞ」  
@@ -101,14 +101,14 @@
 「それじゃあ先生，また次週お会いしましょ」  
 
 <br>  
-
+<br>  
 &#x2013; 了 &#x2013;  
 
 <br>  
 <br>  
-
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
 Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).  
 
-![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+

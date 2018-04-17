@@ -1,3 +1,5 @@
+
+
 # 片鋏のやどかり
 
 若狭の漁師に生まれた真は，幼い頃より誰よりも深くまで潜ることを好んだ。父を亡くし，母と二人で暮らしながらも，長じて素潜りの名人となることを夢見ながら，毎日のように海へ入った。  
@@ -23,7 +25,7 @@
 ふと足下の砂浜に，片腕を失ったやどかりが歩んでいた。それを見て，真は母を待つのをやめ，町で暮らすことにした。  
 
 <br>  
-
+<br>  
 &#x2013; 了 &#x2013;  
 
 <br>  
@@ -33,4 +35,5 @@
 
 Copyright (c) 2016 jamcha (jamcha.aa@gmail.com).  
 
-![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
+
