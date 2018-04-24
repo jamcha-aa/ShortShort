@@ -15,3 +15,4 @@
 -   [会議](/articles/Meeting.md)
 -   [かいじゅうの国](/articles/Kaiju.md)
 -   [小児科](/articles/Friends.md)
+-   [天馬](/articles/Pegasus.md)
