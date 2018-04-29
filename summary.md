@@ -16,3 +16,4 @@
 -   [かいじゅうの国](/articles/Kaiju.md)
 -   [小児科](/articles/Friends.md)
 -   [天馬](/articles/Pegasus.md)
+-   [最後の魔法](/articles/RustMagic.md)
