@@ -17,3 +17,4 @@
 -   [小児科](/articles/Friends.md)
 -   [天馬](/articles/Pegasus.md)
 -   [最後の魔法](/articles/RustMagic.md)
+-   [誰が墓をあばいたか](/articles/Tomb.md)
