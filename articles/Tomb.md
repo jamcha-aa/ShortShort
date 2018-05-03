@@ -1,7 +1,7 @@
 # 誰が墓をあばいたか
 
 -   発表者: G201001 高梨璃🐯📍 (@rikopin<sub>0201</sub>)
--   論文タイトル: Peryon Flint and Lisa Dahn. (2040). Who Buried the Tomb of the Prime Minister? *Political Research, 121, 1-53.*
+-   論文タイトル: Peryon Flint and Lisa Dahn. (2040). Who Bullied the Tomb of the Prime Minister? *Political Research, 121, 1-53.*
 
 ## なぜこの論文を選んだのか
 
