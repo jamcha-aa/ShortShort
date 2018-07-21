@@ -19,3 +19,4 @@
 -   [最後の魔法](/articles/RustMagic.md)
 -   [誰が墓をあばいたか](/articles/Tomb.md)
 -   [明日の天気は宇宙船](/articles/Spaceship.md)
+-   [クロガネの道](/articles/Kijiku.md)
