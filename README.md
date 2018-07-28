@@ -18,6 +18,6 @@
 <br>  
 Copyright (c) 2016-2018 jamcha (jamcha.aa@gmail.com).  
 
-All the novels in this repository are licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
+All the novels in this repository are licensed under the [Creative Commons Attribution Non Commercial Share Alike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)  
 
-![cc by-nc-sa](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
