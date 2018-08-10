@@ -21,3 +21,4 @@
 -   [明日の天気は宇宙船](Spaceship.md)
 -   [クロガネの道](Kijiku.md)
 -   [中央線高ノ台行](Takanodai.md)
+-   [紫虎全書](Shiso.md)
