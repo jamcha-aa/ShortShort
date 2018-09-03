@@ -1,25 +1,27 @@
 #+OPTIONS: toc:nil
-#+OPTIONS: \n:t
+#+OPTIONS: -:nil
+#+OPTIONS: ^:{}
 
-* 短編小説集
-  オリジナル短編小説集
+---
+home: true
+heroImage: /hero.png
+actionText: 読む
+actionLink: /article/WhaleDreams.html
+---
 
-  [[https://jamcha-aa.github.io/ShortShort/]]
-
+  <br>
   <br>
   画面左上の「≡」で目次の表示/非表示ができます。
 
   <br>
   <br>
 
-  [[https://jamcha-aa.github.io/About/][作品一覧]]
+  この物語はフィクションであり，実在の人物・団体とは一切関係ありません。
 
-  [[https://github.com/jamcha-aa/ShortShort][GitHubリポジトリ]]
-
-  <br>
-  <br>
   Copyright (c) 2016-2018 jamcha (jamcha.aa@gmail.com).
 
   All the novels in this repository are licensed under the [[https://creativecommons.org/licenses/by-nc-sa/4.0/deed][Creative Commons Attribution Non Commercial Share Alike 4.0 International License]]
 
-![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
+  ![[https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png][cc by-nc-sa]]
+
+  [[http://spacemacs.org][file:https://cdn.rawgit.com/syl20bnr/spacemacs/442d025779da2f62fc86c2082703697714db6514/assets/spacemacs-badge.svg]]
