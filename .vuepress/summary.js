@@ -25,7 +25,8 @@ exports.genSidebarConfig = function (title) {
                 'Spaceship',
                 'Kijiku',
                 'Takanodai',
-                'Shiso'
+                'Shiso',
+                'Talk'
             ]
         }
     ]
