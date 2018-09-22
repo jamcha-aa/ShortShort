@@ -26,7 +26,8 @@ exports.genSidebarConfig = function (title) {
                 'Kijiku',
                 'Takanodai',
                 'Shiso',
-                'Talk'
+                'Talk',
+                'Komachi'
             ]
         }
     ]
