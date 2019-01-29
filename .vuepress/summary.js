@@ -27,7 +27,10 @@ exports.genSidebarConfig = function (title) {
                 'Takanodai',
                 'Shiso',
                 'Talk',
-                'Komachi'
+                'Komachi',
+                'Controller',
+                'Paint',
+                'Cold'
             ]
         }
     ]
