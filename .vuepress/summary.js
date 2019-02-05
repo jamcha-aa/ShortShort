@@ -30,7 +30,8 @@ exports.genSidebarConfig = function (title) {
                 'Komachi',
                 'Controller',
                 'Paint',
-                'Cold'
+                'Cold',
+                'Takanashi'
             ]
         }
     ]
