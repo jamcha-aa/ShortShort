@@ -31,7 +31,8 @@ exports.genSidebarConfig = function (title) {
                 'Controller',
                 'Paint',
                 'Cold',
-                'Takanashi'
+                'Takanashi',
+                'LastWord'
             ]
         }
     ]
