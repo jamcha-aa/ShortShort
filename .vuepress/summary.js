@@ -30,8 +30,6 @@ exports.genSidebarConfig = function (title) {
                 'Komachi',
                 'Controller',
                 'Paint',
-                'Cold',
-                'Takanashi',
                 'LastWord',
                 'SnowChild',
                 'Stone',
