@@ -150,7 +150,7 @@ F なが思い出したように言った。
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
-Copyright (c) 2018 jamcha (jamcha.aa@gmail.com).  
+(c) 2018 jamcha (jamcha.aa@gmail.com).  
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
 

@@ -25,7 +25,7 @@
 
 ["8 Months of D3"](https://www.youtube.com/watch?v=nvwbtmfIeUA) inspired me to write this, but please keep in mind that this novel does not mention about D3 at all.  
 
-Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
+(c) 2019 jamcha (jamcha.aa@gmail.com).  
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
 
