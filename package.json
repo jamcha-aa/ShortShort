@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/jamcha-aa/ShortShort/issues"
   },
-  "homepage": "https://github.com/jamcha-aa/ShortShort#readme"
+  "homepage": "https://github.com/jamcha-aa/ShortShort#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0"
+  }
 }
