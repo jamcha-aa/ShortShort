@@ -1,13 +1,13 @@
 {
   "name": "shortshort",
   "version": "1.0.0",
-  "description": "&#x2014;   home: true   heroImage: /hero.png   actionText: 読む   actionLink: /article/WhaleDreams.html",
+  "description": "&#x2014;   home: true   heroImage: /hero.png   actionText: 読む   actionLink: /article/",
   "main": "index.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "docs:build": "vuepress build"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,9 @@
     "url": "https://github.com/jamcha-aa/ShortShort/issues"
   },
   "homepage": "https://github.com/jamcha-aa/ShortShort#readme",
+   "dependencies": {
+    "vuepress": "^1.0.0-alpha.48"
+  }
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0"
   }
