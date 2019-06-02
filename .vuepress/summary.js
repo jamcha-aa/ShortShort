@@ -19,6 +19,7 @@ exports.genSidebarConfig = function (title) {
                 'Meeting',
                 'Kaiju',
                 'Friends',
+		'Pegasus',
                 'RustMagic',
                 'Tomb',
                 'Spaceship',
@@ -33,7 +34,8 @@ exports.genSidebarConfig = function (title) {
                 'SnowChild',
                 'Stone',
                 'Moth',
-                'Drive'
+                'Drive',
+                'Peekaboo'
             ]
         }
     ]

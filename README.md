@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.png
 actionText: 読む
-actionLink: /article/WhaleDreams.html
+actionLink: /article/
 ---
 
 <br>
