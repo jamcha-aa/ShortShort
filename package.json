@@ -19,9 +19,9 @@
     "url": "https://github.com/jamcha-aa/ShortShort/issues"
   },
   "homepage": "https://github.com/jamcha-aa/ShortShort#readme",
-   "dependencies": {
+  "dependencies": {
     "vuepress": "^1.0.0-alpha.48"
-  }
+  },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0"
   }
