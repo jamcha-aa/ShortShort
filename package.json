@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jamcha-aa/ShortShort#readme",
   "dependencies": {
-    "vuepress": "^1.0.0-alpha.48"
+    "vuepress": "^1.0.0-alpha.47"
   },
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.0"
