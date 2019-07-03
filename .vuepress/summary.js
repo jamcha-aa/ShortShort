@@ -37,7 +37,8 @@ exports.genSidebarConfig = function (title) {
                 'Drive',
                 'Peekaboo',
                 'Cemetery',
-                'Spider'
+                'Spider',
+                'Ninigi'
             ]
         }
     ]
