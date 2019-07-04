@@ -27,6 +27,6 @@ module.exports = {
     ['link', { rel: 'icon', type: 'image/png', href: '/img/favicon.png' }]
     ],
     base: '/ShortShort/',
-    dest: 'docs',
+    dest: '.vuepress/dist'
     plugins: ['@vuepress/plugin-back-to-top']
 }
