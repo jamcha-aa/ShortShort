@@ -100,16 +100,17 @@
 
 そんなわけで、その後生まれた律令は形を変えながら千年以上使われ、神への食事は今なお欠かさず供されている。
 
-<br>  
-<br>  
+<br>
+<br>
 
 -- 了 --
 
-<br>  
+<br>
+<br>
 
 この物語はフィクションであり，実在の人物・団体とは一切関係ありません。  
 
-Copyright (c) 2019 jamcha (jamcha.aa@gmail.com).  
+(c) 2019 jamcha (jamcha.aa@gmail.com).  
 
 ![cc by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)  
 
