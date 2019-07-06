@@ -38,7 +38,8 @@ exports.genSidebarConfig = function (title) {
                 'Peekaboo',
                 'Cemetery',
                 'Spider',
-                'Ninigi'
+                'Ninigi',
+                'Ofuton'
             ]
         }
     ]
