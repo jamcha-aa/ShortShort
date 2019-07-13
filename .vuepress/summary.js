@@ -39,7 +39,8 @@ exports.genSidebarConfig = function (title) {
                 'Cemetery',
                 'Spider',
                 'Ninigi',
-                'Ofuton'
+                'Ofuton',
+                'Facet'
             ]
         }
     ]
